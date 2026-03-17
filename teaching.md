@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Teaching
-description: text
+description: 
 ---
 
 {% include nav.html %}
 
-# Teaching and Mentoring
 I enjoy teaching mathematics and machine learning topics and supervising student research.
 
 ## Courses

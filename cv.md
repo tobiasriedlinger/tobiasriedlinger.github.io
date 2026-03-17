@@ -1,11 +1,10 @@
 ---
 layout: default
 title: CV
+description: 
 ---
 
 {% include nav.html %}
-
-# CV
 
 You can download my CV here:
 

@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Research
+description: 
 ---
 
 {% include nav.html %}
 
-# Research
 My research generally lies at the intersection of mathematics and machine learning.
 
 ## Reliable AI and Uncertainty Quantification 

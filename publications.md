@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Publications
+description: 
 ---
 
 {% include nav.html %}
-
-# Publications
 
 A full list can be found on my  
 [Google Scholar](https://scholar.google.de/citations?user=XggH5bwAAAAJ).
