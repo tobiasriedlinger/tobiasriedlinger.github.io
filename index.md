@@ -2,7 +2,7 @@
 # Tobias Riedlinger
 Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with a particular interest in reliable AI, uncertainty quantification, statistical learning theory, and generative models. I enjoy theory that connects to practical machine learning problems in a clear and rigorous way.
 
-<img src="assets/mugshot2.png" width="200">
+<!-- <img src="assets/images/mugshot2.png" width="200"> -->
 
 # Research
 - **Reliable AI and Uncertainty Quantification** - When can we trust a model and what are how can we tell when we should not?
