@@ -1,5 +1,6 @@
 ---
-title: Teaching
+layout: default
+title: Something else
 ---
 
 {% include nav.html %}
