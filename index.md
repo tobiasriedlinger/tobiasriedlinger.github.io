@@ -1,5 +1,5 @@
 {% include nav.html %}
-# Tobias Riedlinger
+
 Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with a particular interest in reliable AI, uncertainty quantification, statistical learning theory, and generative models. I enjoy theory that connects to practical machine learning problems in a clear and rigorous way.
 
 <img src="assets/images/mugshot2.png" width="400">
