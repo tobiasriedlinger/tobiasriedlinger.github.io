@@ -11,7 +11,7 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 
 <div class="contact">
 
-### Contact
+<!-- ### Contact -->
 
 - Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
 - Office: +49 202 314 25062
