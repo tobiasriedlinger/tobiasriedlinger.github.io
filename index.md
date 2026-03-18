@@ -5,13 +5,16 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 
 <!-- <img src="assets/images/mugshot2.png" width="400"> -->
 
-<div class="profile">
+<div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap;">
 
-<img src="assets/images/mugshot2.png" width="400">
+<img src="assets/images/mugshot2.png"
+     alt="Tobias Riedlinger"
+     width="400"
+     style="border-radius:12px;">
 
-<div class="contact">
+<div>
 
-## Tobias Riedlinger
+### Contact
 
 - Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
 - Office: +49 202 314 25062
