@@ -2,7 +2,24 @@
 
 Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with a particular interest in reliable AI, uncertainty quantification, statistical learning theory, and generative models. I enjoy theory that connects to practical machine learning problems in a clear and rigorous way.
 
+
+<!-- <img src="assets/images/mugshot2.png" width="400"> -->
+
+<div class="profile">
+
 <img src="assets/images/mugshot2.png" width="400">
+
+<div class="contact">
+
+## Tobias Riedlinger
+
+- Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
+- Office: +49 202 314 25062
+- Scholar: [Tobias Riedlinger](https://scholar.google.de/citations?user=XggH5bwAAAAJ)
+
+</div>
+
+</div>
 
 # Research
 - **Reliable AI and Uncertainty Quantification** - When can we trust a model and what are how can we tell when we should not?
@@ -30,7 +47,7 @@ Here are some ongoing thesis projects:
 - Conditional Marked Poisson Point Process Networks for Synthetic Radar Point Cloud Generation
 - Symmetries and Moduli Spaces of Deep Neural Networks
 
-# Contact
-- Email [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
+<!-- # Contact
+- Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
 - Office: +49 202 314 25062
-- Scholar: [Tobias Riedlinger](https://scholar.google.de/citations?user=XggH5bwAAAAJ)
+- Scholar: [Tobias Riedlinger](https://scholar.google.de/citations?user=XggH5bwAAAAJ) -->
