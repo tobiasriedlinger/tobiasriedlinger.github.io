@@ -12,6 +12,21 @@
   color: white;
 }
 
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.profile img {
+  border-radius: 12px;
+}
+
+.contact {
+  font-size: 16px;
+}
+
 .main-content h1 {
 //   color: #662a79;
   color: #8A2BE3

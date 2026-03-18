@@ -5,14 +5,11 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 
 <!-- <img src="assets/images/mugshot2.png" width="400"> -->
 
-<div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap;">
+<div class="profile">
 
-<img src="assets/images/mugshot2.png"
-     alt="Tobias Riedlinger"
-     width="350"
-     >
+<img src="assets/images/mugshot2.png" width="400">
 
-<div>
+<div class="contact">
 
 ### Contact
 
@@ -23,6 +20,7 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 </div>
 
 </div>
+
 
 # Research
 - **Reliable AI and Uncertainty Quantification** - When can we trust a model and what are how can we tell when we should not?
