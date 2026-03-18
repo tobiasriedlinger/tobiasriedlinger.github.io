@@ -19,3 +19,7 @@ A full list can be found on my
 
 > **Gradient-Based Quantification of Epistemic Uncertainty for Deep Object Detectors**
 > Tobias Riedlinger, Matthias Rottmann, Marius Schubert, and Hanno Gottschalk
+
+
+## Full List (sorted by year)
+
