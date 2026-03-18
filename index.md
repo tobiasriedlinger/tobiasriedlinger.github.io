@@ -9,8 +9,8 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 
 <img src="assets/images/mugshot2.png"
      alt="Tobias Riedlinger"
-     width="400"
-     style="border-radius:12px;">
+     width="350"
+     >
 
 <div>
 
