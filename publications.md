@@ -92,34 +92,43 @@ International Journal of Computer Vision (2025), pages 4349–4365
 >
 > [Paper](https://www.scitepress.org/Papers/2024/123533/) | [PDF](https://www.scitepress.org/Papers/2024/123533/123533.pdf) | [Code](ttps://github.com/tobiasriedlinger/uncertainty-gradients-seg)
 
-> 📑 **Deep Active Learning with Noisy Oracle in Object Detection**
+> 📑 **[Deep Active Learning with Noisy Oracle in Object Detection](docs/deep_active_learning_with_noisy_oracle_in_object_detection.md)**
 > *Marius Schubert , Tobias Riedlinger , Karsten Kahl, and Matthias Rottmann.* 
 > Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: VISAPP. INSTICC. SciTePress, 2024, pages 375–384
 >
 > [Paper](https://www.scitepress.org/Papers/2024/123158) | [PDF](https://www.scitepress.org/Papers/2024/123158/123158.pdf)
 
-> 📑 **Towards Rapid Prototyping and Comparability in Active Learning for Deep Object Detection**
+> 📑 **[Towards Rapid Prototyping and Comparability in Active Learning for Deep Object Detection](docs/towards_rapid_prototyping_and_comparability_in_active_learning_for_deep_object_detection.md)**
 > *Tobias Riedlinger , Marius Schubert , Karsten Kahl, Hanno Gottschalk, and Matthias
 Rottmann.*
 > Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and  Computer Graphics Theory and Applications - Volume 2: VISAPP. INSTICC. SciTePress, 2024, pages 366–374
+>
+> [Paper](https://www.scitepress.org/Papers/2024/123154) | [PDF](https://www.scitepress.org/Papers/2024/123154/123154.pdf) | [Code](https://github.com/tobiasriedlinger/al-rapid-prototyping)
 
 > 📑 **Identifying label errors in object detection datasets by loss inspection**
 > *Marius Schubert, Tobias Riedlinger, Karsten Kahl, Daniel Kröll, Sebastian Schoenen, Siniša
 Šegvić, and Matthias Rottmann.*
 > Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024, pages 4582–4591
+>
+> [Paper](https://ieeexplore.ieee.org/document/10484530) | [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Schubert_Identifying_Label_Errors_in_Object_Detection_Datasets_by_Loss_Inspection_WACV_2024_paper.pdf)
 
 > 📑 **LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds.**
 > *Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
 Karsten Kahl, Lutz Roese-Koerner, Michael Arnold, Urs Zimmermann, and Matthias Rottmann.*
 > Pattern Recognition. Edited by U. Köthe and C. Rother. Cham: Springer Nature Switzerland, 2024, pages 85–99
+>
+> [Paper](https://link.springer.com/chapter/10.1007/978-3-031-54605-1_6?fromPaywallRec=false) | [PDF](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/010.pdf) | [Code](https://github.com/JanMarcelKezmann/MetaDetect3D)
 
 ### 2023
-> 📑**Gradient-Based Quantification of Epistemic Uncertainty for Deep Object Detectors**
+> 📑 **Gradient-Based Quantification of Epistemic Uncertainty for Deep Object Detectors**
 > *Tobias Riedlinger , Matthias Rottmann, Marius Schubert, and Hanno Gottschalk.*
 >  In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023, pages 3921–3931
->  [paper]() | [code]()
+> 
+>  [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.html) | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.pdf) | [Code](https://github.com/tobiasriedlinger/gradient-metrics-od)
 
 ### 2022
 > 📖 **Uncertainty Quantification for Object Detection: Output- and Gradient-Based Approaches**
 > *Tobias Riedlinger† , Marius Schubert, Karsten Kahl, and Matthias Rottmann.*
 > Deep Neural Networks and Data for Automated Driving: Robustness, Uncertainty Quantification, and Insights towards Safety. Edited by T. Fingscheidt, H. Gottschalk, and S. Houben. Cham: Springer International Publishing, 2022, pages 251–275
+>
+> [Paper](https://link.springer.com/chapter/10.1007/978-3-031-01233-4_9) | [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-01233-4_9.pdf?pdf=inline%20link)
