@@ -85,7 +85,7 @@ International Journal of Computer Vision (2025), pages 4349–4365
 > [Paper](https://arxiv.org/abs/2503.10729) | [PDF](https://arxiv.org/pdf/2503.10729)
 
 ### 2024
-> 📑 **[Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks Applied to Out-of-Distribution Segmentation]**
+> 📑 **[Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks Applied to Out-of-Distribution Segmentation](docs/pixel-wise_gradient_uncertainty_for_convolutional_neural_networks_applied_to_out-of-distribution_segmentation)**
 > *Kira Maag and Tobias Riedlinger.*
 > Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: VISAPP. INSTICC. SciTePress, 2024, pages 112–122
 >
