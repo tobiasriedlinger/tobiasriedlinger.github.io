@@ -6,16 +6,19 @@ description:
 
 {% include nav.html %}
 
-A full list can be found on my  
-[Google Scholar](https://scholar.google.de/citations?user=XggH5bwAAAAJ).
+You can also find these on my [Google Scholar Profile](https://scholar.google.de/citations?user=XggH5bwAAAAJ).
 
+---
 📑 Conference Proceedings | 📘 Journal Article | 📖 Book Chapter | 📄 Preprint | 📝 In Preparation
+
+---
+
 ## Selected
->  📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> [!success]+ 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > accepted as full paper at ICLR 2026
 >
-> [arxiv](https://arxiv.org/abs/2506.21486) | [code](https://github.com/CMPPP-CV/cmpppnet)
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
 
 > 📘 **Lmd: Light-weight prediction quality estimation for object detection in lidar point clouds**
 >*Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
