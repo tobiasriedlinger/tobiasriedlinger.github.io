@@ -11,14 +11,24 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 - **Data Curation and Active Learning** - How can we identify defective annotations, improve data quality and better use of data pools?
 
 # Selected Publications
-> **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
-> Tobias Riedlinger, Kira Maag and Hanno Gottschalk
+> 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
+> accepted as full paper at ICLR 2026
+>
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
 
-> **Lmd: Light-weight prediction quality estimation for object detection in lidar point clouds**
-> Tobias Riedlinger, Marius Schubert, Sarina Penquitt, Jan-Marcel Kezmann, Pascal Colling, Karsten Kahl, Lutz Roese-Koerner, Michael Arnold, Urs Zimmermann, and Matthias Rottmann
+> 📘 **Lmd: Light-weight prediction quality estimation for object detection in lidar point clouds**
+>*Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
+Karsten Kahl, Lutz Roese-Koerner, Michael Arnold, Urs Zimmermann, and Matthias Rottmann.*
+International Journal of Computer Vision (2025), pages 4349–4365
+> 
+> [Paper](https://link.springer.com/article/10.1007/s11263-025-02377-8) | [PDF](https://rdcu.be/ebLjA) | [Code](https://github.com/JanMarcelKezmann/MetaDetect3D)
 
-> **Gradient-Based Quantification of Epistemic Uncertainty for Deep Object Detectors**
-> Tobias Riedlinger, Matthias Rottmann, Marius Schubert, and Hanno Gottschalk
+> 📑 **Gradient-Based Quantification of Epistemic Uncertainty for Deep Object Detectors**
+> *Tobias Riedlinger , Matthias Rottmann, Marius Schubert, and Hanno Gottschalk.*
+>  In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023, pages 3921–3931
+> 
+>  [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.html) | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.pdf) | [Code](https://github.com/tobiasriedlinger/gradient-metrics-od)
 
 # News
 - 17.03.2026 Contributed Session Talk at GAMM 2026 (16.03.-20.03., Stuttgart)

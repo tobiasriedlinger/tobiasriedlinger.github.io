@@ -14,6 +14,8 @@ It is uncomfortable to admit, but they do some things better than I.
 But they are also bad at knowing when they don't know something.
 This research direction addresses this shortcoming by developing methods to quantify the uncertainty of model predictions and safety mechanisms.
 
+<!-- Read more [here](docs/reliable_ai_and_uncertainty_quantification.md). -->
+
 ## Statistical Deep Learning
 So far from my point of view the most convincing and sensible notion of successful learning: **P**robably **A**pproximately **C**orrect learning captures that training data is drawn from a probability distribution covering worst case scenarios.
 Proving PAC learnability for deep learning models involves a variety of mathematical tools and requires understanding their interplay and connections.
