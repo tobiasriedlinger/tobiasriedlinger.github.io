@@ -14,7 +14,7 @@ You can also find these on my [Google Scholar Profile](https://scholar.google.de
 ---
 
 ## Selected
-> [!success]+ 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > accepted as full paper at ICLR 2026
 >
@@ -36,21 +36,23 @@ International Journal of Computer Vision (2025), pages 4349–4365
 ## Full List (sorted by year)
 
 ### 2026
-> 📘 **Advanced Analysis of Pixel-Wise Gradient Uncertainty for Convolutional
-Neural Networks**
+> 📘 **Advanced Analysis of Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks**
 > *Tobias Riedlinger and Kira Maag.*
 > Computer Vision, Imaging and Computer Graphics Theory and Applications. Cham: Springer Nature Switzerland, 2026, pages 239–258
-> [paper]() | [code]()
+>
+> [Paper](https://link.springer.com/chapter/10.1007/978-3-032-07623-6_13)| [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07623-6_13) | [Code](https://github.com/tobiasriedlinger/uncertainty-gradients-seg)
 
-📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > accepted as full paper at ICLR 2026
-> [arxiv](https://arxiv.org/abs/2506.21486) | [code](https://github.com/CMPPP-CV/cmpppnet)
+>
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
 
-> 📄 **Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with
-Epistemic Uncertainty on Graphs**
+> 📄 **Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with Epistemic Uncertainty on Graphs**
 > *Jonathan Klees, Tobias Riedlinger, Peter Stehr, Bennet Böddecker, Daniel Kondermann, and Matthias Rottmann.*
 > 2026 under review
+>
+> [Arxiv](https://arxiv.org/abs/2602.04574) | [PDF](https://arxiv.org/pdf/2602.04574)
 
 > 📝 **Neural Networks might fail to learn from Synthetic Data**
 > *Leroy Odunlami, Tobias Riedlinger, and Hanno Gottschalk.*
@@ -61,26 +63,33 @@ Epistemic Uncertainty on Graphs**
 >*Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
 Karsten Kahl, Lutz Roese-Koerner, Michael Arnold, Urs Zimmermann, and Matthias Rottmann.*
 International Journal of Computer Vision (2025), pages 4349–4365
-[paper]() | [code]()
+> 
+> [Paper](https://link.springer.com/article/10.1007/s11263-025-02377-8) | [PDF](https://rdcu.be/ebLjA) | [Code](https://github.com/JanMarcelKezmann/MetaDetect3D)
 
 > 📄 **Learning to Detect Label Errors by Making Them: A Method for Segmentation and Object Detection Datasets**
 > *Sarina Penquitt, Tobias Riedlinger, Timo Heller, Markus Reischl, and Matthias Rottmann.*
 > 2025 under review
+>
+> [Paper](https://arxiv.org/abs/2508.17930) | [PDF](https://arxiv.org/pdf/2508.17930)
 
 > 📄 **Consistency of Learned Sparse Grid Quadrature Rules using NeuralODEs**
 > *Hanno Gottschalk, Emil Partow, and Tobias J Riedlinger.
 > 2025 under review
+>
+> [Paper](https://arxiv.org/abs/2507.01533) | [PDF](https://arxiv.org/pdf/2507.01533)
 
 > 📄 **Numerical and statistical analysis of NeuralODE with Runge-Kutta time integration**
 > *Emily C Ehrhardt, Hanno Gottschalk, and Tobias J Riedlinger.*
 > 2025 under review
-> [paper](https://arxiv.org/abs/2503.10729)
+>
+> [Paper](https://arxiv.org/abs/2503.10729) | [PDF](https://arxiv.org/pdf/2503.10729)
+
 ### 2024
-> 📑 **Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks
-Applied to Out-of-Distribution Segmentation**
+> 📑 **[Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks Applied to Out-of-Distribution Segmentation]**
 > *Kira Maag and Tobias Riedlinger.*
 > Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: VISAPP. INSTICC. SciTePress, 2024, pages 112–122
-> [paper]() | [code]()
+>
+> [Paper](https://www.scitepress.org/Papers/2024/123533/) | [PDF](https://www.scitepress.org/Papers/2024/123533/123533.pdf) | [Code](ttps://github.com/tobiasriedlinger/uncertainty-gradients-seg)
 
 > 📑 **Deep Active Learning with Noisy Oracle in Object Detection**
 > *Marius Schubert , Tobias Riedlinger , Karsten Kahl, and Matthias Rottmann.* 
