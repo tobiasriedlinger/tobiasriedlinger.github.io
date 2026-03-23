@@ -54,6 +54,12 @@ International Journal of Computer Vision (2025), pages 4349–4365
 >
 > [Arxiv](https://arxiv.org/abs/2602.04574) | [PDF](https://arxiv.org/pdf/2602.04574)
 
+> 📄 **Regularity of Solutions to Beckmann's Parametric Optimal Transport**
+> *Hanno Gottschalk, and Tobias J Riedlinger*
+> 2026 under review
+>
+> [Arxiv](https://arxiv.org/abs/2603.19755) | [PDF](https://arxiv.org/pdf/2603.19755) 
+
 > 📝 **Neural Networks might fail to learn from Synthetic Data**
 > *Leroy Odunlami, Tobias Riedlinger, and Hanno Gottschalk.*
 > 2026 in preparation

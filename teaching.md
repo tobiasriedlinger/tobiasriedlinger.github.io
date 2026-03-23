@@ -22,9 +22,9 @@ I enjoy teaching mathematics and machine learning topics and supervising student
 ## Thesis Supervision
 Projects I supervise tend to have a focus either on applications of deep learning models or on mathematical/theoretical problems.
 
-🛠 Applied projects usually consider novel mathematical models (or classical ones with a twist) designed for special tasks/goals that are often (but not exclusively) related to uncertainty and reliability of the model. Model design and experimental evaluation are always guided by mathematical principles. Oftentimes, it is advantageous for my students to have an affinity for coding (Python, preferably) and a lack of fear to get their hands dirty.
+🛠 Applied projects usually consider **novel mathematical models (or classical ones with a twist) designed for special tasks/goals** that are often (but not exclusively) related to uncertainty and reliability of the model. Model design and experimental evaluation are always guided by mathematical principles. Oftentimes, it is advantageous for my students to have an **affinity for coding** (Python, preferably) and a lack of fear to get their hands dirty.
 
-✍ Theoretical projects usually consider mathematical questions from statistical learning theory of modern deep learning methods with the ultimate aim to derive mathematical guarantees. Even when starting from toy examples, the goal is always to find statements under assumptions that are in principle realizable in practical scenarios. From my experience, machine learning problems tend to span mathematical disciplines, so a curiosity about the mathematical interplay of different fields often helps to progress through problems.
+✍ Theoretical projects usually consider **mathematical questions from statistical learning theory of modern deep learning methods** with the ultimate aim to derive mathematical guarantees. Even when starting from toy examples, the goal is always to find statements under assumptions that are in principle realizable in practical scenarios. From my experience, machine learning problems tend to span mathematical disciplines, so a **curiosity about the mathematical interplay** of different fields often helps to progress through problems.
 
 ### 2026
 - ✍ Studies on the Regularity Theory of the Flow Matching Vector Field
