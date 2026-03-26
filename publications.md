@@ -14,11 +14,11 @@ You can also find these on my [Google Scholar Profile](https://scholar.google.de
 ---
 
 ## Selected
-> 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> 📑 **[Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](docs/towards_reliable_detection_of_empty_space-conditional_marked_point_processes_for_object_detection.md)**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > accepted as full paper at ICLR 2026
 >
-> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [OpenReview](https://openreview.net/forum?id=M2KLWLHzX0) | [PDF](https://rdcu.be/ebLjA) | [Code](https://github.com/CMPPP-CV/cmpppnet)
 
 > 📘 **Lmd: Light-weight prediction quality estimation for object detection in lidar point clouds**
 >*Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
@@ -42,11 +42,11 @@ International Journal of Computer Vision (2025), pages 4349–4365
 >
 > [Paper](https://link.springer.com/chapter/10.1007/978-3-032-07623-6_13)| [PDF](https://link.springer.com/chapter/10.1007/978-3-032-07623-6_13) | [Code](https://github.com/tobiasriedlinger/uncertainty-gradients-seg)
 
-> 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
+> 📑 **[Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](docs/towards_reliable_detection_of_empty_space-conditional_marked_point_processes_for_object_detection.md)**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > accepted as full paper at ICLR 2026
 >
-> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [OpenReview](https://openreview.net/forum?id=M2KLWLHzX0) | [PDF](https://rdcu.be/ebLjA) | [Code](https://github.com/CMPPP-CV/cmpppnet)
 
 > 📄 **Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with Epistemic Uncertainty on Graphs**
 > *Jonathan Klees, Tobias Riedlinger, Peter Stehr, Bennet Böddecker, Daniel Kondermann, and Matthias Rottmann.*
