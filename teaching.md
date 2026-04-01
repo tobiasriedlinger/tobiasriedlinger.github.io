@@ -6,11 +6,11 @@ description:
 
 {% include nav.html %}
 
-I enjoy teaching mathematics and machine learning topics and supervising student research. Here, you can find an overview of recent courses I have supervised or assisted in as well, as thesis projects I have recently supervised. If you are a Bachelor's or Master's student in mathematics, computer science or scientific computing looking for a thesis project, feel free to [send me an email](mailto:riedlinger@math.tu-berlin.de). 
+I enjoy teaching mathematics and machine learning topics and supervising student research. Here, you can find an overview of recent courses I have supervised or assisted in as well, as thesis projects I have recently supervised. If you are a Bachelor's or Master's student in mathematics, computer science or scientific computing looking for a thesis project, feel free to [send me an email](mailto:riedlinger@math.tu-berlin.de).
 
 ## Courses
 ### 2026
-- Mathematical Seminar: Mathematical Perspectives on Machine Learning Algorithms, *TU Berlin*
+- Mathematical Seminar: [Mathematical Perspectives on Machine Learning Algorithms](docs/ss26-mpmla.md), *TU Berlin*
 - Mathematical Foundations of Machine Learning, *TU Berlin*
 
 ### 2025
