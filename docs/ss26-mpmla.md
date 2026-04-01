@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 
-description: Seminar: Mathematical Perspectives on Machine Learning Algorithms
+title: Seminar Mathematical Perspectives on Machine Learning Algorithms
+description:
 ---
 
 {% include nav.html %}
