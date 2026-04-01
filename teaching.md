@@ -27,6 +27,7 @@ Projects I supervise tend to have a focus either on applications of deep learnin
 ✍ Theoretical projects usually consider **mathematical questions from statistical learning theory of modern deep learning methods** with the ultimate aim to derive mathematical guarantees. Even when starting from toy examples, the goal is always to find statements under assumptions that are in principle realizable in practical scenarios. From my experience, machine learning problems tend to span mathematical disciplines, so a **curiosity about the mathematical interplay** of different fields often helps to progress through problems.
 
 ### 2026
+- ✍ Information Geometry and Singular Learning Theoy for ReLU Neural Networks
 - ✍ Studies on the Regularity Theory of the Flow Matching Vector Field
 - 🛠 Conditional Marked Poisson Point Process Networks for Synthetic Radar Point Cloud Generation
 - ✍ Symmetries and Moduli Spaces of Deep Neural Networks
