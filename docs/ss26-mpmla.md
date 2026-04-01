@@ -2,6 +2,7 @@
 layout: default
 title: Seminar Mathematical Perspectives on Machine Learning Algorithms
 description: 
+use_math: true
 ---
 
 {% include nav.html %}
