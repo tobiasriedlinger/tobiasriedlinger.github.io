@@ -13,9 +13,9 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 # Selected Publications
 > 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
-> accepted as full paper at ICLR 2026
+> ICLR 2026
 >
-> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://rdcu.be/ebLjA) | [code](https://github.com/CMPPP-CV/cmpppnet)
+> [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://openreview.net/pdf?id=M2KLWLHzX0) | [code](https://github.com/CMPPP-CV/cmpppnet)
 
 > 📘 **Lmd: Light-weight prediction quality estimation for object detection in lidar point clouds**
 >*Tobias Riedlinger , Marius Schubert, Sarina Penquitt , Jan-Marcel Kezmann, Pascal Colling,
@@ -31,6 +31,7 @@ International Journal of Computer Vision (2025), pages 4349–4365
 >  [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.html) | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.pdf) | [Code](https://github.com/tobiasriedlinger/gradient-metrics-od)
 
 # News
+- 23.04.2026 Poster session on [Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](https://openreview.net/forum?id=M2KLWLHzX0) at [ICML 2026](https://iclr.cc/Conferences/2026) (23.04.2026 - 27.04.2026, Rio de Janeiro)
 - 23.03.2026 New preprint online [here](https://arxiv.org/abs/2603.19755). Tldr: We show existence and Hölder regularity of transport vector fields and their flows under relatively generic conditions.
 - 17.03.2026 Contributed Session Talk at GAMM 2026 (16.03.-20.03., Stuttgart)
 - 25.02.2026 - 27.02.2026 nxtAIM Open Project Day and Winter School II (Freiburg im Breisgau)
