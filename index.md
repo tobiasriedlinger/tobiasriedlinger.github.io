@@ -13,7 +13,7 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 # Selected Publications
 > 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
-> ICLR 2026
+> International Conference on Learning Representations (ICLR), 2026
 >
 > [Arxiv](https://arxiv.org/abs/2506.21486) | [PDF](https://openreview.net/pdf?id=M2KLWLHzX0) | [code](https://github.com/CMPPP-CV/cmpppnet)
 

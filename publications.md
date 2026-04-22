@@ -16,7 +16,7 @@ You can also find these on my [Google Scholar Profile](https://scholar.google.de
 ## Selected
 > 📑 **[Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](docs/towards_reliable_detection_of_empty_space-conditional_marked_point_processes_for_object_detection.md)**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
-> accepted as full paper at ICLR 2026
+> International Conference on Learning Representations (ICLR), 2026
 >
 > [Arxiv](https://arxiv.org/abs/2506.21486) | [OpenReview](https://openreview.net/forum?id=M2KLWLHzX0) | [PDF](https://rdcu.be/ebLjA) | [Code](https://github.com/CMPPP-CV/cmpppnet)
 
