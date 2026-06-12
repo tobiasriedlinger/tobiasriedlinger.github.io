@@ -37,11 +37,11 @@ International Journal of Computer Vision (2025), pages 4349–4365
 - 25.02.2026 - 27.02.2026 nxtAIM Open Project Day and Winter School II (Freiburg im Breisgau)
 
 # Teaching and Mentoring
-I enjoy teaching and mentoring students in mathematics and machine learning.
+I enjoy [teaching and mentoring students](teaching.md) in mathematics and machine learning.
 Here are some ongoing thesis projects:
 - Studies on the Regularity Theory of the Flow Matching Vector Field
 - Conditional Marked Poisson Point Process Networks for Synthetic Radar Point Cloud Generation
-- Symmetries and Moduli Spaces of Deep Neural Networks
+- Conditional Flux Matching
 
 # Contact
 - Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
