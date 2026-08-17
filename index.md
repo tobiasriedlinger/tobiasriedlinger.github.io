@@ -6,10 +6,10 @@ description: Postdoctoral researcher in mathematics at TU Berlin — mathematica
 
 {% include nav.html %}
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.75rem; align-items: flex-start; margin: 1.5rem 0 2.5rem;">
-  <img src="assets/images/mugshot2.png" alt="Portrait of Tobias J. Riedlinger" style="width: 210px; max-width: 100%; border-radius: 4px;">
-  <div style="flex: 1 1 300px;">
-    <p style="margin-top: 0;">
+<div class="profile">
+  <img src="assets/images/mugshot2.png" alt="Portrait of Tobias J. Riedlinger">
+  <div class="profile-text">
+    <p>
       <strong>Dr. rer. nat. Tobias J. Riedlinger</strong><br>
       Postdoctoral Researcher, Institute of Mathematics, TU Berlin<br>
       Group: Mathematical Modeling of Industrial Life Cycles
@@ -74,7 +74,7 @@ My work spans statistical learning theory, optimal transport and applied uncerta
 - **Talks and visits** — Contributed talk at GAMM 2026 (Stuttgart); oral presentations at VISAPP 2024 (Rome) and WACV 2023 (Waikoloa). Research visits to the University of Zagreb in 2024 and 2025, hosted by Siniša Šegvić and Anja Delić.
 
 ## News
-
+- **10 Sept 2026** — Contributed talk *Hölder Regularity of Solutions to the Beckmann Problem with Quadratic Cost* at DMV Jahrestagung 2026 (6–10 Sept 2026, Konstanz)
 - **23 Apr 2026** — Poster presentation of [Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](https://openreview.net/forum?id=M2KLWLHzX0) at [ICLR 2026](https://iclr.cc/Conferences/2026) (23–27 April, Rio de Janeiro)
 - **23 Mar 2026** — New preprint online: [Regularity of Solutions to Beckmann's Parametric Optimal Transport](https://arxiv.org/abs/2603.19755). We show existence and Hölder regularity of transport vector fields and their flows under relatively generic conditions.
 - **17 Mar 2026** — Contributed talk *Hölder Regularity of Solutions to the Beckmann Problem with Quadratic Cost* at GAMM 2026 (16–20 March, Stuttgart)
@@ -84,5 +84,6 @@ My work spans statistical learning theory, optimal transport and applied uncerta
 
 - **Email:** [riedlinger@math.tu-berlin.de](mailto:riedlinger@math.tu-berlin.de)
 - **Office phone:** +49 30 314 1900 1014
+- **Office:** Room IMOS 2057, Fasanenstraße 89, 10623 Berlin, Germany
 - **Google Scholar:** [Tobias Riedlinger](https://scholar.google.de/citations?user=XggH5bwAAAAJ) 
 - **ORCID:** [0000-0002-1953-8607](https://orcid.org/0000-0002-1953-8607)

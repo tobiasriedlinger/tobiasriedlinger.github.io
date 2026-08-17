@@ -12,15 +12,27 @@
   color: white;
 }
 
+/* Intro block: portrait beside the identity/summary text */
 .profile {
   display: flex;
   align-items: flex-start;
   gap: 30px;
   flex-wrap: wrap;
+  margin: 1.5rem 0 2.5rem;
 }
 
 .profile img {
   border-radius: 12px;
+  width: 210px;
+  max-width: 100%;
+}
+
+.profile-text {
+  flex: 1 1 300px;
+}
+
+.profile-text p:first-child {
+  margin-top: 0;
 }
 
 .contact {
@@ -28,9 +40,7 @@
 }
 
 .main-content h1 {
-//   color: #662a79;
-  color: #8A2BE3
-;
+  color: #8A2BE3;
 }
 
 .main-content h2 {
@@ -45,17 +55,28 @@
   color: #11768f;
 }
 
-/* Improve layout */
+/* Improve layout.
+   Capped at 1000px: with the 18px body size, a wider column pushes past a
+   comfortable line length for the long prose on the research pages. */
 .main-content {
-  max-width: 1400px;
+  max-width: 1000px;
   font-size: 18px;
 }
 
 /* Navigation */
+.nav {
+  margin-bottom: 1.5rem;
+}
+
 .nav a {
   margin-right: 15px;
   font-weight: 500;
   color: #8A2BE3;
+}
+
+.nav a.active {
+  border-bottom: 2px solid #8A2BE3;
+  padding-bottom: 2px;
 }
 
 /* Buttons */

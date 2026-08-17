@@ -29,8 +29,7 @@ Neural networks are great. It is uncomfortable to admit, but they do some things
 
 ## Data Curation and Active Learning
 I was looking through failure cases of a deep object detection model in order to understand why its performance was worse than we expected.
-To my surprise, the model was actually right in many cases where it was penalized for being wrong: the ground truth annotations were simply missing. This led me to investigate systematic methods for discovering annotation errors in large-scale datasets injected by human labelers.
-This research direction deals with systematic methods for discovering annotation errors in large-scale datasets injected by human labelers.
+To my surprise, the model was actually right in many cases where it was penalized for being wrong: the ground truth annotations were simply missing. This led me to investigate systematic methods for discovering annotation errors introduced by human labelers in large-scale datasets.
 As a related discipline, I investigate how to smartly use annotation budgets in the context of active learning.
 
 <img src="assets/images/boats_label_errors.jpg" alt="Missing ground truth annotations on boats in an object detection dataset" width="400">

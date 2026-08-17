@@ -1,7 +1,12 @@
+{%- comment -%}
+  jekyll-relative-links turns "research.md" links into "/research.html", while the
+  nav points at "/research"; strip the extension so both forms match here.
+{%- endcomment -%}
+{%- assign current = page.url | remove: ".html" | remove: "index" -%}
 <nav class="nav">
-  <a href="/">Home</a>
-  <a href="/research">Research</a>
-  <a href="/publications">Publications</a>
-  <a href="/teaching">Teaching</a>
-  <a href="/cv">CV</a>
+  <a href="/"{% if current == "/" %} class="active"{% endif %}>Home</a>
+  <a href="/research"{% if current == "/research" %} class="active"{% endif %}>Research</a>
+  <a href="/publications"{% if current == "/publications" %} class="active"{% endif %}>Publications</a>
+  <a href="/teaching"{% if current == "/teaching" %} class="active"{% endif %}>Teaching</a>
+  <a href="/cv"{% if current == "/cv" %} class="active"{% endif %}>CV</a>
 </nav>
