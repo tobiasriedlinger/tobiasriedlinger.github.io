@@ -6,11 +6,11 @@ Hi, I'm Tobias. I work on the mathematical foundations of machine learning, with
 <img src="assets/images/mugshot2.png" width="400">
 
 # Research
-- **Reliable AI and Uncertainty Quantification** - When can we trust a model and what are how can we tell when we should not?
+- **Reliable AI and Uncertainty Quantification** - When can we trust a model and how can we tell when we should not?
 - **Statistical Deep Learning** - Which guarantees can we prove about learning, generalization and structure in modern models?
-- **Data Curation and Active Learning** - How can we identify defective annotations, improve data quality and better use of data pools?
+- **Data Curation and Active Learning** - How can we identify defective annotations, improve data quality and make better use of data pools?
 
-# Selected Publications
+# [Selected Publications](publications.md)
 > 📑 **Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**
 > *Tobias J Riedlinger , Kira Maag , and Hanno Gottschalk*. 
 > International Conference on Learning Representations (ICLR), 2026
@@ -31,7 +31,7 @@ International Journal of Computer Vision (2025), pages 4349–4365
 >  [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.html) | [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Riedlinger_Gradient-Based_Quantification_of_Epistemic_Uncertainty_for_Deep_Object_Detectors_WACV_2023_paper.pdf) | [Code](https://github.com/tobiasriedlinger/gradient-metrics-od)
 
 # News
-- 23.04.2026 Poster session on [Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](https://openreview.net/forum?id=M2KLWLHzX0) at [ICML 2026](https://iclr.cc/Conferences/2026) (23.04.2026 - 27.04.2026, Rio de Janeiro)
+- 23.04.2026 Poster session on [Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](https://openreview.net/forum?id=M2KLWLHzX0) at [ICLR 2026](https://iclr.cc/Conferences/2026) (23.04.2026 - 27.04.2026, Rio de Janeiro)
 - 23.03.2026 New preprint online [here](https://arxiv.org/abs/2603.19755). Tldr: We show existence and Hölder regularity of transport vector fields and their flows under relatively generic conditions.
 - 17.03.2026 Contributed Session Talk at GAMM 2026 (16.03.-20.03., Stuttgart)
 - 25.02.2026 - 27.02.2026 nxtAIM Open Project Day and Winter School II (Freiburg im Breisgau)
@@ -45,5 +45,5 @@ Here are some ongoing thesis projects:
 
 # Contact
 - Email: [riedlinger@tu-berlin.de](mailto:riedlinger@tu-berlin.de)
-- Office: +49 202 314 25062
+- Office Phone: +49 30 314 1900 1014
 - Scholar: [Tobias Riedlinger](https://scholar.google.de/citations?user=XggH5bwAAAAJ)
