@@ -11,6 +11,7 @@ I enjoy teaching mathematics and machine learning topics and supervising student
 ## Courses
 
 ### As instructor and organizer
+- **2027** — X-Student Research Group Seminar (funding approved for summer term 2027): [Approximation, Generalization and Optimization in Neural Networks](docs/ss27-xstudent.md), *TU Berlin*
 - **2026** — Mathematical Seminar: [Mathematical Perspectives on Machine Learning Algorithms](docs/ss26-mpmla.md), *TU Berlin*
 - **2025** — Mathematical Seminar: Uncertainty Quantification in Machine Learning, *TU Berlin*
 

@@ -46,6 +46,17 @@ You can also find these on my [Google Scholar Profile](https://scholar.google.de
 > Computer Vision, Imaging and Computer Graphics Theory and Applications. Cham: Springer Nature Switzerland, 2026, pages 239–258
 >
 > [Paper](https://link.springer.com/chapter/10.1007/978-3-032-07623-6_13) | [Code](https://github.com/tobiasriedlinger/uncertainty-gradients-seg)
+<!-- @InProceedings{riedlinger2026advanced,
+    title        = "Advanced Analysis of Pixel-Wise Gradient Uncertainty for Convolutional Neural Networks",
+    author       = "Riedlinger, Tobias and Maag, Kira",
+    editor       = "Bashford-Rogers, Thomas and Meneveaux, Daniel and Ziat, Mounia and Ammi, Mehdi and J{\"a}nicke, Stefan and Purchase, Helen and Radeva, Petia and Furnari, Antonino and Bouatouch, Kadi and de Sousa, A. Augusto",
+    booktitle    = "Computer Vision, Imaging and Computer Graphics Theory and Applications",
+    year         = "2026",
+    publisher    = "Springer Nature Switzerland",
+    address      = "Cham",
+    pages        = "239--258",
+    isbn         = "978-3-032-07623-6"
+} -->
 
 > 📑 **[Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](docs/towards_reliable_detection_of_empty_space-conditional_marked_point_processes_for_object_detection.md)**
 > ***Tobias J. Riedlinger**, Kira Maag, and Hanno Gottschalk.*

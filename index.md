@@ -75,6 +75,7 @@ My work spans statistical learning theory, optimal transport and applied uncerta
 
 ## News
 - **10 Sept 2026** — Contributed talk *Hölder Regularity of Solutions to the Beckmann Problem with Quadratic Cost* at DMV Jahrestagung 2026 (6–10 Sept 2026, Konstanz)
+- **28.07.2026** — My proposal for an X-Student Research Group seminar has been approved for funding by the Berlin University Alliance! The [seminar](docs/ss27-xstudent.md) will run in the summer term 2027 and focus on methods to control the ERM error decomposition terms in deep learning.
 - **23 Apr 2026** — Poster presentation of [Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection](https://openreview.net/forum?id=M2KLWLHzX0) at [ICLR 2026](https://iclr.cc/Conferences/2026) (23–27 April, Rio de Janeiro)
 - **23 Mar 2026** — New preprint online: [Regularity of Solutions to Beckmann's Parametric Optimal Transport](https://arxiv.org/abs/2603.19755). We show existence and Hölder regularity of transport vector fields and their flows under relatively generic conditions.
 - **17 Mar 2026** — Contributed talk *Hölder Regularity of Solutions to the Beckmann Problem with Quadratic Cost* at GAMM 2026 (16–20 March, Stuttgart)
